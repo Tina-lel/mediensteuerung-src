@@ -1,5 +1,8 @@
 # mediensteuerung-src
-Quellcode unserer Höchstprofessionellen Mediensteuerung. Vorgesehen für das CompanionPi betriebsystem
+Quellcode unserer Höchstprofessionellen Mediensteuerung. Vorgesehen für das CompanionPi betriebsystem.
+
+### Notiz:
+**Der Quellcode wird nur benötigt, um eine eigene Version des Mediensteuerungs-System zu erstellen. Falls sie lediglich nur ein fertiges Abbild benötigen, so können sie sich dieses hier in dem "Releases"-Tab des GitHub repositories herunterladen.**
 
 # Vorbereitung
 
