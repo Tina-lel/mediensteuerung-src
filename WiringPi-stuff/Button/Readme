@@ -1,0 +1,9 @@
+#U need wiring pi
+https://github.com/WiringPi/WiringPi
+#The pin for the button is gpio 17 with pullup
+# the command to compile is 
+gcc button.c -o button -lwiringPi
+# to see the output do
+socat tcp-l:8080,reuseaddr,reuseport,fork -
+
+# tina war hier
