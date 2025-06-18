@@ -1,0 +1,8 @@
+[Unit]
+Description=soos saas lool
+
+[Service]
+ExecStart=/usr/BACKEND/backend.sh
+
+[Install]
+WantedBy=multi-user.target
