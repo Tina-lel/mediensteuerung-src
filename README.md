@@ -6,13 +6,15 @@ Quellcode unserer Höchstprofessionellen Mediensteuerung. Vorgesehen für das Co
 
 # Vorbereitung
 
-Verwendete Programme (Dependencies):
+Benötigte Packete (Dependencies):
 - bash
-- python
 - socat
+
+Benötigt für Bluetooth:
 - bluez
-    - dbus
-    - python-dbus
+- python
+- dbus
+- python-dbus
 
 # Installation
 
