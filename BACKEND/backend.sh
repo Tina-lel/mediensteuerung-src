@@ -30,7 +30,7 @@ PIPE="/tmp/pipe"
 PIPE_BL="/tmp/pipe_bl"
 PORT="1234"
 BL_VERIFY_PORT="1235"
-BLUETOOTH_SECRET="herman69"
+BLUETOOTH_SECRET="test1234"
 DIR=/usr/BACKEND
 
 # create pipe for the TCP socket
